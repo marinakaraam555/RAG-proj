@@ -1,0 +1,13 @@
+# filename class_id(0=plate) x_center y_center width height (normalized, YOLO format)
+car_01.jpg 0 0.5219 0.6375 0.1406 0.0667
+car_02.jpg 0 0.4531 0.6375 0.1406 0.0667
+car_03.jpg 0 0.3969 0.6375 0.1406 0.0667
+car_04.jpg 0 0.4219 0.6375 0.1406 0.0667
+car_05.jpg 0 0.5203 0.6375 0.1406 0.0667
+car_06.jpg 0 0.4703 0.6375 0.1406 0.0667
+car_07.jpg 0 0.4703 0.6375 0.1406 0.0667
+car_08.jpg 0 0.4344 0.6375 0.1406 0.0667
+car_09.jpg 0 0.5141 0.6375 0.1406 0.0667
+car_10.jpg 0 0.5344 0.6375 0.1406 0.0667
+car_11.jpg - no_plate_visible
+car_12.jpg - no_plate_visible

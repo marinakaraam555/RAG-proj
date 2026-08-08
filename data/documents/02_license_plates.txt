@@ -1,0 +1,11 @@
+License Plate Requirements and Violations
+
+Every registered motor vehicle must display a valid, legible license plate on both the front and rear of the vehicle, unless the vehicle class is exempt (motorcycles and trailers typically require only a rear plate). Plates must be securely mounted, unobstructed by trailer hitches, bike racks, or covers, and free of damage, fading, or dirt that prevents automated or manual reading from a distance of at least 20 meters.
+
+Plate formats vary by vehicle category. Private passenger vehicles use one alphanumeric format, commercial vehicles use a distinct color scheme (commonly a different background color), and temporary or transit plates are issued for a maximum of 30 days pending permanent registration. Diplomatic and government vehicles carry separate series that are exempt from certain local restrictions but not from criminal traffic violations.
+
+A vehicle detected without a visible or legible plate is subject to an immediate fine and may be flagged for inspection. Deliberately obscuring, bending, or applying reflective covers to a plate to defeat camera-based enforcement is treated as a separate, more serious offense than simply having a dirty or damaged plate, since it demonstrates intent to evade detection.
+
+Automated license plate recognition (ALPR) systems are deployed at toll gates, parking facilities, and fixed enforcement points along major roads. These systems compare detected plates against databases for expired registration, unpaid tolls, reported theft, and outstanding violations. A vehicle flagged in more than one database check may be subject to further roadside inspection.
+
+Lost or stolen plates must be reported to the licensing authority within 48 hours. Continuing to use a vehicle without reporting a lost plate, or fabricating a replacement plate outside official channels, is a criminal offense distinct from ordinary registration violations.

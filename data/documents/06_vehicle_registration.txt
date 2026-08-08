@@ -1,0 +1,11 @@
+Vehicle Registration and Inspection
+
+New vehicles must be registered with the licensing authority within 30 days of purchase before they may be legally driven on public roads. Registration requires proof of ownership, proof of insurance, and, for used vehicles, a valid roadworthiness inspection certificate no older than 90 days.
+
+Annual roadworthiness inspections are mandatory for vehicles older than 4 years, and every two years for vehicles between 1 and 4 years old. Inspections check braking system function, tire tread depth (minimum 1.6 mm across the central three-quarters of the tread), lighting, exhaust emissions, and structural integrity of the chassis. Vehicles failing inspection receive a 14-day grace period to complete repairs and re-inspect before registration is suspended.
+
+Registration renewal notices are sent 60 days before expiry. Driving with expired registration beyond a 15-day grace period results in a fine, and the vehicle may be impounded if stopped by law enforcement. Insurance must remain continuously active; a lapse of more than 30 days can trigger automatic registration suspension in jurisdictions with insurance-registration linkage.
+
+Ownership transfer must be reported within 14 days of sale. The seller remains liable for any violations recorded against the vehicle until the transfer is officially processed, so sellers are strongly advised to retain a copy of the signed transfer document and confirm the buyer has completed registration.
+
+Modified vehicles (altered suspension height, engine swaps, aftermarket exhaust exceeding noise limits, or window tint darker than the permitted transmission percentage) must pass a supplementary modification inspection before registration will be approved or renewed.

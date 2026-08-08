@@ -1,0 +1,11 @@
+Speed Limits and Enforcement
+
+General urban roads have a default speed limit of 50 km/h unless otherwise posted. Residential zones near schools, hospitals, and playgrounds are restricted to 30 km/h during posted hours, typically 7:00 AM to 7:00 PM on school days. Main urban arterial roads may be posted at 60 km/h where sight lines and road design permit.
+
+On rural two-lane highways outside built-up areas, the default limit is 90 km/h. Divided highways with a physical median may be posted up to 100 km/h. Motorways (controlled-access highways with grade-separated interchanges) allow speeds up to 120 km/h for passenger cars; heavy trucks and buses are limited to 90 km/h on the same motorways.
+
+Speed limits are reduced in adverse weather. Drivers must reduce speed by at least 20 km/h below the posted limit during heavy rain, fog with visibility under 100 meters, or when road surfaces are wet or icy. Failure to adjust speed for conditions, even when under the posted limit, can still result in a citation for "speed inappropriate for conditions."
+
+Enforcement uses fixed speed cameras, mobile radar units, and average-speed camera corridors on long highway stretches. A tolerance margin of 5 km/h above the posted limit is generally applied before a violation is recorded, though this margin is not a legal right and can vary by jurisdiction.
+
+Penalties scale with the amount by which the limit was exceeded. Exceeding the limit by up to 20 km/h typically results in a fine and points on the license. Exceeding it by more than 40 km/h can result in immediate license suspension, vehicle impoundment, and a mandatory court appearance. Repeat offenders within a 12-month period face doubled fines and longer suspension periods.
