@@ -197,6 +197,9 @@ in `notebooks/rag_pipeline.ipynb`, Section 2.6.
 
 *(Add screenshots of the running Streamlit app and Swagger `/docs` page here before
 submission.)*
+🎥 Demo
+
+[🔗 View Demo](https://drive.google.com/file/d/1jdu5kDI3lq-vv07dTYlAA-A62xL0ZBKF/view?usp=sharing)
 
 ## Notes
 
